@@ -13,11 +13,12 @@ behaviour and destiny.
 The calculator efficiency is 50%. The main reason is the double quoshent. This result to the system might give you a wrong value. I welcome anyone with idea on how to fix it.
 ## Technologies Used
 The technologies used are:
-*HTML
 
-*CSS
+>Html
 
-*JAVASCRIPT
+>Css
+
+>Javascript
 
 ## Support and contact details
 Phone: +254 728608551
