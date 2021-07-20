@@ -32,7 +32,7 @@ function vade(){
     var male =["Kwasi","Kwadwo","Kwabena","Kwaku","yaw","Kofi","Kwame"];
     var female=["Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"];
 
-    
+    // Akan Calculator
     if(d==0 && gender=='male'){
         alert("Dear User, Your Akan name is: "+male[0]+ "\n and you were born on: "+days[0])
         return false;
