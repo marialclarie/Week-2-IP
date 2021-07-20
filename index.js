@@ -81,6 +81,10 @@ function vade(){
         window.alert("Dear User, Your Akan name is: "+male[4]+ "\n and you were born on: "+days[4])
         return false;
     }
+    if(d==5 && gender=='female'){
+        window.alert("Dear User, Your Akan name is: "+male[5]+ "\n and you were born on: "+days[5])
+        return false;
+    }
 
     
 
