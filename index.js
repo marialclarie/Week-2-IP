@@ -5,7 +5,7 @@ function vade(){
      var dd=document.getElementById('date').value;   
     var gender=document.getElementById('gender').value;
         //Validation
-    if(cc==''){
+    if(cc==''|| cc<19||cc>21){
         alert('Input a valid Century');
         return false;
     }
@@ -89,12 +89,4 @@ function vade(){
         window.alert("Dear User, Your Akan name is: "+male[6]+ "\n and you were born on: "+days[6])
         return false;
     }
-
-
-    
-
-
-    
-
-
 }
