@@ -62,31 +62,31 @@ function vade(){
         return false;
     }
     if(d==0 && gender=='female'){
-        window.alert("Dear User, Your Akan name is: "+male[0]+ "\n and you were born on: "+days[0])
+        window.alert("Dear User, Your Akan name is: "+female[0]+ "\n and you were born on: "+days[0])
         return false;
     }
     if(d==1 && gender=='female'){
-        window.alert("Dear User, Your Akan name is: "+male[1]+ "\n and you were born on: "+days[1])
+        window.alert("Dear User, Your Akan name is: "+female[1]+ "\n and you were born on: "+days[1])
         return false;
     }
     if(d==2 && gender=='female'){
-        window.alert("Dear User, Your Akan name is: "+male[2]+ "\n and you were born on: "+days[2])
+        window.alert("Dear User, Your Akan name is: "+female[2]+ "\n and you were born on: "+days[2])
         return false;
     }
-    if(d==3 && gender=='female'){
-        window.alert("Dear User, Your Akan name is: "+male[3]+ "\n and you were born on: "+days[3])
+    if(d==3 && gender=='female'){cc.focus();
+        window.alert("Dear User, Your Akan name is: "+female[3]+ "\n and you were born on: "+days[3])
         return false;
     }
     if(d==4 && gender=='female'){
-        window.alert("Dear User, Your Akan name is: "+male[4]+ "\n and you were born on: "+days[4])
+        window.alert("Dear User, Your Akan name is: "+female[4]+ "\n and you were born on: "+days[4])
         return false;
     }
     if(d==5 && gender=='female'){
-        window.alert("Dear User, Your Akan name is: "+male[5]+ "\n and you were born on: "+days[5])
+        window.alert("Dear User, Your Akan name is: "+female[5]+ "\n and you were born on: "+days[5])
         return false;
     }
     if(d==6 && gender=='female'){
-        window.alert("Dear User, Your Akan name is: "+male[6]+ "\n and you were born on: "+days[6])
+        window.alert("Dear User, Your Akan name is: "+female[6]+ "\n and you were born on: "+days[6])
         return false;
     }
 }
