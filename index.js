@@ -9,7 +9,7 @@ function vade(){
         alert('Input a valid Century');
         return false;
     }
-    if(yy==''){
+    if(yy==''|| yy.length>2 || yy,length<2){
         alert('Input a valid Year');
         return false;
     }
